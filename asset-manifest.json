@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Weather_by_Location/static/css/main.6d18cfb2.css",
+    "main.css": "/Weather_by_Location/static/css/main.732ce02b.css",
     "main.js": "/Weather_by_Location/static/js/main.675a36b5.js",
     "static/media/sunset.jpg": "/Weather_by_Location/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
     "index.html": "/Weather_by_Location/index.html",
-    "main.6d18cfb2.css.map": "/Weather_by_Location/static/css/main.6d18cfb2.css.map",
+    "main.732ce02b.css.map": "/Weather_by_Location/static/css/main.732ce02b.css.map",
     "main.675a36b5.js.map": "/Weather_by_Location/static/js/main.675a36b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d18cfb2.css",
+    "static/css/main.732ce02b.css",
     "static/js/main.675a36b5.js"
   ]
 }
